@@ -1,6 +1,6 @@
 <template>
-	<div id="applychioce">
-			applychioceapplychioceapplychioce
+	<div id="applyChoice">
+		你是代理商可是当时的你说的就是打开手机端
 
 	</div>
 </template>
@@ -9,7 +9,7 @@
 	export {
 		default
 	}
-	from './applychioce.Ctr'
+	from './applyChoiceCtr'
 </script>
 
 <style scoped>
